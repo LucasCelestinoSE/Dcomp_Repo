@@ -1,0 +1,71 @@
+ ------------------------------------------------------------------------------
+|              Tutorial para submissao e execucao de projetos                  |
+ ------------------------------------------------------------------------------
+|                                                                              |
+| 1) Convencao para nomenclatura de arquivo                                    |
+|                                                                              |
+|    - O formato do nome do arquivo deve ser                                   |
+|    [nomesobrenome]_[matricula 12 digitos]_[projeto].[c|cpp|java|go|pas|py|s] |
+|    para ser aceito pelo sistema de submissao, onde projeto e' o padrao de    |
+|    identificacao para cada instancia.                                        |
+|                                                                              |
+|    Exemplo: nomesobrenome_123456789012_exemplo.c                             |
+|                                                                              |
+|    *   Os alunos que implementarem suas solucoes em Java, devem ser utilizar |
+|        a classe que possui o metodo main com o mesmo nome do arquivo, sem a  |
+|        utilizacao de pacotes;                                                |
+|                                                                              |
+|    **  Recomenda-se a utilizacao somente de nome e de sobrenome no arquivo,  |
+|        para que o tamanho do nome do arquivo nao fique longo demais;         |
+|                                                                              |
+|    *** Cada nova submissao substitui a versao anterior que estava armazenada |
+|        no servidor, podendo haver mudanca de linguagem de programacao.       |
+|                                                                              |
+ ------------------------------------------------------------------------------
+|                                                                              |
+| 2) Execucao do projeto                                                       |
+|                                                                              |
+|    - Para executar o arquivo executavel do projeto, e' necessario passar na  |
+|    linha de comando os argumentos do programa no formato:                    |
+|    <executavel> <arquivo de entrada> <arquivo de saida>                      |
+|                                                                              |
+|    Exemplo: nomesobrenome_123456789012_exemplo.exe entrada.in saida.out      |
+|                                                                              |
+|    *   Recomenda-se o estudo de passagem de parametros utilizado nas         |
+|        linguagens de programacao suportadas (C/C++/Java/Go/Pascal/Python);   |
+|                                                                              |
+|    **  O arquivo de entrada fornecido como parametro deve ser aberto em modo |
+|        de somente leitura, evitando que o processo seja finalizado pelo SO;  |
+|                                                                              |
+|    *** E' permitida a utilizacao da saida padrao (terminal) para exibicao de |
+|        informacoes ou depuracao, mas somente sera considerado na correcao o  |
+|        conteudo do arquivo de saida gerado.                                  |
+|                                                                              |
+ ------------------------------------------------------------------------------
+|                                                                              |
+| 3) Autenticacao, prazo de submissao e sigilo de implementacao                |
+|                                                                              |
+|    - Necessita-se de conta de e-mail institucional para realizacao das       |
+|    submissoes, evitando acessos indevidos;                                   |
+|                                                                              |
+|    - O sistema de submissao so aceitara o envio de projetos durante o prazo  |
+|    especificado e nao serao feitas excecoes. Nao serao considerados e-mails  |
+|    com arquivos anexados ou qualquer outro metodo alternativo de envio;      |
+|                                                                              |
+|    - Deve-se enfatizar que o aluno e' responsavel pelo sigilo de sua         |
+|    implementacao e que projetos com alto grau de similaridade serao          |
+|    automaticamente anulados.                                                 |
+|                                                                              |
+ ------------------------------------------------------------------------------
+|                                                                              |
+| Referencias                                                                  |
+|                                                                              |
+|    - Linguagem C/C++ (http://www.cplusplus.com/reference/cstdio/)            |
+|    - API de Java (http://docs.oracle.com/javase/7/docs/api/)                 |
+|    - Dev-Cpp (http://sourceforge.net/projects/orwelldevcpp/)                 |
+|    - Code Blocks (http://www.codeblocks.org/)                                |
+|    - Eclipse IDE (https://www.eclipse.org/)                                  |
+|    - The Go Programming Language (https://golang.org/)                       |
+|    - Python 3 Documentation (https://docs.python.org/3/)                     |
+|                                                                              |
+ ------------------------------------------------------------------------------
